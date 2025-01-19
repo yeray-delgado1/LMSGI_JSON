@@ -1,0 +1,71 @@
+{
+    "pokemons": [
+      {
+        "id": 1,
+        "nom": "Gengar",
+        "tipus": ["Fantasma", "Verí"],
+        "pes": "40.5 kg",
+        "altura": "1.5 m",
+        "estadistiques": {
+          "velocitat": 5,
+          "fortalesa": 3,
+          "precisió": 4,
+          "resistència": 2
+        },
+        "moviments": [
+          {
+            "nom": "Bola Sombra",
+            "descripció": "Llança una bola d'energia ombrívola contra l'enemic.",
+            "potència": 80,
+            "contacte": false
+          },
+          {
+            "nom": "Llengua de Llamps",
+            "descripció": "Llampega amb una llengua parpellejant que pot paralitzar.",
+            "potència": 30,
+            "contacte": true
+          }
+        ],
+        "evolucions": [
+          {
+            "id_pokemon": 94,
+            "nivell_necessari": "Intercanvi"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nom": "Lucario",
+        "tipus": ["Lluita", "Acer"],
+        "pes": "54.0 kg",
+        "altura": "1.2 m",
+        "estadistiques": {
+          "velocitat": 4,
+          "fortalesa": 5,
+          "precisió": 5,
+          "resistència": 4
+        },
+        "moviments": [
+          {
+            "nom": "Aura Esfera",
+            "descripció": "Llança una esfera d'energia guiada cap al rival.",
+            "potència": 80,
+            "contacte": false
+          },
+          {
+            "nom": "Punys Incrementats",
+            "descripció": "Augmenta la força del seu puny amb cada cop encertat.",
+            "potència": 40,
+            "contacte": true
+          }
+        ],
+        "evolucions": [
+          {
+            "id_pokemon": 448,
+            "nivell_necessari": "Alt nivell d'amistat"
+          }
+        ]
+      }
+    ]
+  }
+  
