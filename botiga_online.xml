@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<botiga>
+	<productes>
+<!-- Producte 1 -->
+		<producte codi=””>
+			<nom></nom>
+			<descripcio></descripcio>
+			<preu moneda=”EUR”></preu>
+			<categoria></categoria>
+			<disponibilitat></disponibilitat>
+			<imatge></imatge>	
+		</producte>
+<!-- Producte 2 -->
+		<producte codi=””>
+			<nom></nom>
+			<descripcio></descripcio>
+			<preu moneda=”EUR”></preu>
+			<categoria></categoria>
+			<disponibilitat></disponibilitat>
+			<imatge></imatge>	
+		</producte>
+	</productes>
+</botiga>
+
+
+
